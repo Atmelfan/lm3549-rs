@@ -1,3 +1,5 @@
+//! ![Quickstart](https://github.com/Atmelfan/lm3549-rs/workflows/Quickstart/badge.svg)
+//!
 //! This is a platform agnostic Rust driver for the for LM3549 High Power Sequential LED Driver
 //! using the [`embedded-hal`] traits.
 //!
